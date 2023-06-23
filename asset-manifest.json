@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.aa486717.css",
+    "main.js": "/react-gh-pages/static/js/main.498d4ecf.js",
+    "static/media/Logo.png": "/react-gh-pages/static/media/Logo.57bfcb743cb390c03a98.png",
+    "static/media/CapStone.png": "/react-gh-pages/static/media/CapStone.dde3ff939639bbd4b369.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.aa486717.css.map": "/react-gh-pages/static/css/main.aa486717.css.map",
+    "main.498d4ecf.js.map": "/react-gh-pages/static/js/main.498d4ecf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa486717.css",
+    "static/js/main.498d4ecf.js"
+  ]
+}
