@@ -11,7 +11,7 @@ const Work = () => {
             </div>
 
             <div style={{backgroundImage: `url(${CapStone})`}}
-             className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
+             className='grid sm:grid-cols md:grid-cols-3 gap-4'>
                 <div className='shadow-lg shadow-[#f4dc7252] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                   {/* hover effects */}
