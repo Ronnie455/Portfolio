@@ -22,6 +22,7 @@
   },
 
   "homepage": "https://ronnie455.github.io/Portfolio/",
+  
   "eslintConfig": {
     "extends": [
       "react-app",
